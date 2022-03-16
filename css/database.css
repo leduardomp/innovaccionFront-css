@@ -1,0 +1,81 @@
+.bannerImg{
+    width: 100%;
+    margin-bottom: 2%;
+
+    box-shadow: 0px 6px 10px -4px rgba(143, 160, 221, 1.00);
+    -webkit-box-shadow: 0px 6px 10px -4px rgba(143, 160, 221, 1.00);
+    -moz-box-shadow: 0px 6px 10px -4px rgba(143, 160, 221, 1.00);
+}
+
+.caracterist{
+    margin-left: 5%;
+}
+
+.astraLogo{
+    background-image: url("../img/database/logos/astra2.png");
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    background-position: center;
+    width: 60px;
+    height: 60px;
+    padding: 5px 5px 5px 5px;
+}
+
+.sinovacLogo{
+    background-image: url("../img/database/logos/sinovac.png");
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    background-position: center;
+    width: 60px;
+    height: 60px;
+    padding: 5px 5px 5px 5px;
+}
+
+.pfizerLogo{
+    background-image: url("../img/database/logos/pfizer-.png");
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    background-position: center;
+    width: 60px;
+    height: 60px;
+    padding: 5px 5px 5px 5px;
+}
+
+.modernaLogo{
+    background-image: url("../img/database/logos/moderna.png");
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    background-position: center;
+    width: 60px;
+    height: 60px;
+    padding: 5px 5px 5px 5px;
+}
+
+.benefits:hover{
+    border: none;
+    box-shadow: 0px 6px 10px -4px rgba(143, 160, 221, 1.00);
+    -webkit-box-shadow: 0px 6px 10px -4px rgba(143, 160, 221, 1.00);
+    -moz-box-shadow: 0px 6px 10px -4px rgba(143, 160, 221, 1.00);
+}
+
+.workElement:hover{
+    border: none;
+    box-shadow: 0px 6px 10px -4px rgba(143, 160, 221, 1.00);
+    -webkit-box-shadow: 0px 6px 10px -4px rgba(143, 160, 221, 1.00);
+    -moz-box-shadow: 0px 6px 10px -4px rgba(143, 160, 221, 1.00);
+}
+
+.mundoBase{
+    background: url("../img/database/mundoBase.png") no-repeat ;
+    background-size: contain;
+    height: 650px;
+    margin-top: -133%;
+}
+
+.correccionBaseMundo{
+    padding-bottom: 5%;
+}
+
+.correcionBaseMundo{
+    height: 400px;
+}
